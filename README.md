@@ -1,0 +1,2 @@
+# BASH.SEC_append-INFO-
+ This Repository for the time being Simply Be an amalgam of information, resources such as programs, tutorial,  even other repositories. That idea is to consolidate these resources of which I can point to and in due time be able to you in my coad... At very least will help me free up an immense amount of bookmarks that I have painstakingly  devoted much of my OCD and time. I'll be adding this information.
